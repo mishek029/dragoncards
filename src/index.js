@@ -1,15 +1,7 @@
-// server/index.js
+import ReactDOM from 'react-dom/client';
 
-const express = require("express");
+import './index.css';
+import App from './App';
 
-const PORT = process.env.PORT || 3000;
-
-const app = express();
-
-app.get("/", (req, res) => {
-  res.json({ message: "Hello from server! neco tady budu davat" });
-});
-
-app.listen(PORT, () => {
-  console.log(`Server listening on ${PORT}`);
-});
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
