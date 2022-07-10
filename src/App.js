@@ -1,4 +1,5 @@
 import Expenses from "./components/Expenses/Expenses";
+import GameBoard from "./components/DragonCards/GameBoard";
 
 const App = () => {
   const expenses = [
@@ -13,7 +14,8 @@ const App = () => {
 
   return (
     <div>
-      <Expenses expenses={expenses}></Expenses>
+{/*       <Expenses expenses={expenses}></Expenses> */}
+      <GameBoard></GameBoard>
     </div>
   );
 }

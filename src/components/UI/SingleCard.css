@@ -1,0 +1,157 @@
+.singleCard-card{
+    width: 150px;
+    height: 200px;
+    border: 1px solid gold;
+    padding: none;
+    margin: none;
+}
+
+
+.singleCard-topLeft-none{
+    background-color: black;
+    color: black;
+    height: 100px;
+}
+
+.singleCard-topRight-none{
+    background-color: black;
+    color: black;
+    height: 100px;
+}
+
+.singleCard-bottomLeft-none{
+    background-color: black;
+    color: black;
+    height: 100px;
+}
+
+.singleCard-bottomRight-none{
+    background-color: black;
+    color: black;
+    height: 100px;
+}
+
+
+
+.singleCard-topLeft-red{
+    background-color: red;
+    color: red;
+    height: 100px;
+}
+
+.singleCard-topLeft-blue{
+    background-color: blue;
+    color: blue;
+    height: 100px;
+}
+
+.singleCard-topLeft-green{
+    background-color: green;
+    border-right: 2px solid green;
+    color: green;
+    height: 100px;
+}
+
+.singleCard-topLeft-yellow{
+    background-color: yellow;
+    color: yellow;
+    height: 100px;
+}
+
+.singleCard-topLeft-black{
+    background-color: black;
+    color: black;
+    height: 100px;
+}
+
+
+.singleCard-topRight-red{
+    background-color: red;
+    color: red;
+    height: 100px;
+}
+
+.singleCard-topRight-blue{
+    background-color: blue;
+    color: blue;
+    height: 100px;
+}
+
+.singleCard-topRight-green{
+    background-color: green;
+    color: green;
+    height: 100px;
+}
+
+.singleCard-topRight-yellow{
+    background-color: yellow;
+    color: yellow;
+    height: 100px;
+}
+
+.singleCard-topRight-black{
+    background-color: black;
+    color: black;
+    height: 100px;
+}
+
+
+.singleCard-bottomLeft-red{
+    background-color: red;
+    color: red;
+    height: 100px;
+}
+
+.singleCard-bottomLeft-blue{
+    background-color: blue;
+    color: blue;
+    height: 100px;
+}
+
+.singleCard-bottomLeft-green{
+    background-color: green;
+    color: green;
+    height: 100px;
+}
+
+.singleCard-bottomLeft-yellow{
+    background-color: yellow;
+    color: yellow;
+    height: 100px;
+}
+
+.singleCard-bottomLeft-black{
+    background-color: black;
+    color: black;
+    height: 100px;
+}
+
+.singleCard-bottomRight-red{
+    background-color: red;
+    color: red;
+    height: 100px;
+}
+
+.singleCard-bottomRight-blue{
+    background-color: blue;
+    color: blue;
+    height: 100px;
+}
+
+.singleCard-bottomRight-green{
+    background-color: green;
+    color: green;
+    height: 100px;
+}
+
+.singleCard-bottomRight-yellow{
+    background-color: yellow;
+    color: yellow;
+    height: 100px;
+}
+
+.singleCard-bottomRight-black{
+    background-color: black;
+    color: black;
+    height: 100px;
+}

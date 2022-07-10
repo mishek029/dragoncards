@@ -1,0 +1,20 @@
+.scrollButton {
+    width: 150px;
+    height: 100px;
+    border: 1px solid gold;
+    background-color: white;
+    padding: none;
+    margin: none;
+    color: black;
+    text-align: center;
+}
+
+.scrollButton-emptySpace {
+    width: 150px;
+    height: 100px;
+    background-color: black;
+    padding: none;
+    margin: none;
+    color: black;
+    text-align: center;
+}
